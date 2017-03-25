@@ -1,0 +1,14 @@
+input{
+	width: 100px;
+	height: 25px;
+	border-radius: 5px;
+}
+h1{
+	color: #16A765;
+	font-weight: bold;
+	font-size: 40px;
+	margin-top: 80px;
+}
+h1#red{
+	background-color: #FEE4C5;
+}
